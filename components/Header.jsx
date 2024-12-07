@@ -19,7 +19,7 @@ const Header = () => {
             <nav className="space-x-8">
               <Link href="#">Help</Link>
               <Link href="#">Pricing</Link>
-              <Link href="#">Login</Link>
+              <Link href="#">Log In</Link>
               <Link href="#">Resister</Link>
             </nav>
           </div>

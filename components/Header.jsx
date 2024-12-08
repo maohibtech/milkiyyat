@@ -1,5 +1,5 @@
 import Link from "next/link";
-import React from "react";
+
 
 const Header = () => {
   return (
@@ -20,7 +20,7 @@ const Header = () => {
               <Link href="#">Help</Link>
               <Link href="#">Pricing</Link>
               <Link href="#">Log In</Link>
-              <Link href="#">Resister</Link>
+              <Link href="#">Register</Link>
             </nav>
           </div>
         </div>
